@@ -64,3 +64,5 @@ DAY-29 : 3-BIT SYNCHROUNOUS UP COUNTER (Structural Modelling).
 DAY-30 : 3-BIT SYNCHROUNOUS UP-DOWN COUNTER (Structural Modelling).
 
 DAY-31 : RING COUNTER (Behavioral Modelling) & JOHNSON COUNTER (Behavioral Modelling).
+
+DAY-32 : FSM Mealy Machine
