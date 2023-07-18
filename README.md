@@ -68,3 +68,6 @@ DAY-31 : RING COUNTER (Behavioral Modelling) & JOHNSON COUNTER (Behavioral Model
 DAY-32 : FSM Mealy Machine(Non-Overlapping & Overlapping)
 
 DAY-33 : FSM Moore Machine(Non-Overlapping & Overlapping)
+
+# Communication-Protocols
+DAY-34,35 : UART (both transmitter and Receiver)
