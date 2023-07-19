@@ -69,5 +69,5 @@ DAY-32 : FSM Mealy Machine(Non-Overlapping & Overlapping)
 
 DAY-33 : FSM Moore Machine(Non-Overlapping & Overlapping)
 
-# Communication-Protocols
+# Hardware-Communication-Protocols
 DAY-34,35 : UART (both transmitter and Receiver)
