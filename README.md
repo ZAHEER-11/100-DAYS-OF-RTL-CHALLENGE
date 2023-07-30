@@ -71,3 +71,5 @@ DAY-33 : FSM Moore Machine(Non-Overlapping & Overlapping)
 
 # Hardware-Communication-Protocols
 DAY-34,35 : UART (both transmitter and Receiver)
+
+DAY-36 : Single port 32 bytes RAM (Synchronous READ and WRITE) 
